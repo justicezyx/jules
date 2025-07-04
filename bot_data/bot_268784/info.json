@@ -1,0 +1,19 @@
+{
+    "bot_page_url": "https://botify.ai/bot_268784",
+    "chat_page_url": "https://botify.ai/bot_268784/chat",
+    "bot_details": {
+        "bot_name": null,
+        "profile_picture_url": null,
+        "photo_urls": [],
+        "tags": [],
+        "description": null,
+        "voice_id": null,
+        "is_nsfw": null,
+        "gender": null
+    },
+    "chat_details": {
+        "first_message_image_url": null,
+        "first_message_text": null
+    },
+    "downloaded_files": {}
+}
